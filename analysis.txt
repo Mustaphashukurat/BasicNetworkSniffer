@@ -1,0 +1,9 @@
+The Basic Network Sniffer project was developed using Python and the Scapy library.
+
+The program captures live network packets and displays:
+- Source IP address
+- Destination IP address
+- Protocol used
+- Packet payload
+
+This project helped in understanding how data travels across a network and how packet analysis works in cybersecurity.
